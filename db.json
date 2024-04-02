@@ -6,7 +6,8 @@
       "category": "Text & Language",
       "description": "Feeling overwhelmed by lengthy articles or research papers? This model is your time-saving companion. Simply paste the text you want to understand better, and our Text Summarizer will condense it into a concise and informative summary.  Focus on the key points and grasp the overall message efficiently,  whether you're a student cramming for an exam, a busy professional needing a quick briefing, or simply curious about a complex topic.",
       "demo_type": "text",
-      "placeholder_text": "Enter a lengthy piece of text here (e.g., news article, research paper)."
+      "placeholder_text": "Enter a lengthy piece of text here (e.g., news article, research paper).",
+      "rating": 4.1
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "category": "Computer Vision",
       "description": "Ever wondered what objects are hiding in your photos?  This Image Classifier is here to shed light on the mystery. Upload any image, and our model will analyze it, identifying the prominent objects present within the frame.  Whether you're curious about a souvenir from your travels, want to understand a scene in a photograph, or simply categorize your personal image collection, this AI tool can be your visual detective.",
       "demo_type": "image",
-      "placeholder_text": "Drag and drop an image here or click to browse."
+      "placeholder_text": "Drag and drop an image here or click to browse.",
+      "rating": 3.5
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "category": "Code-based",
       "description": "Struggling to finish that line of code?  Don't fret! Our Code Completion model can be your coding buddy. Provide a snippet of your code, and this AI assistant will suggest potential completions that fit the context.  Boost your coding efficiency, explore new possibilities, and overcome writer's block with the help of AI.  Remember, the model's suggestions are a starting point, and your coding expertise remains essential!",
       "demo_type": "code",
-      "placeholder_text": "Write some code here and see the model's suggestions."
+      "placeholder_text": "Write some code here and see the model's suggestions.",
+      "rating": 4.8
     },
     {
       "id": 4,
@@ -30,14 +33,25 @@
       "category": "Text & Language",
       "description": "Unleash your inner artist and explore the boundless realms of creative expression with our  Creative Text Generator.  Feeling stuck on a writing prompt? Need inspiration for a poem, script, musical piece, or even a computer program?  This model can be your creative muse.  Simply provide a starting prompt or theme, and the AI will generate original text formats, sparking your imagination and igniting new ideas.  Let AI be your collaborator and see where your creativity takes you!",
       "demo_type": "text",
-      "placeholder_text": "Enter a starting prompt or theme (e.g., 'A haiku about a robot')."
+      "placeholder_text": "Enter a starting prompt or theme (e.g., 'A haiku about a robot').",
+      "rating": 4.5
     },
     {
       "id": 5,
       "name": "Language Translator",
       "description": "The world is full of fascinating cultures and languages, but communication barriers can sometimes hold us back.  Our powerful Language Translator is here to bridge the gap.  Enter the text you want to translate, choose the target language from our extensive list, and let the AI do the work.  Break down language barriers, connect with people from all over the globe, and experience the richness of diverse cultures through the power of machine translation.",
       "demo_type": "text",
-      "placeholder_text": "Enter the text you want to translate and choose the target language."
+      "placeholder_text": "Enter the text you want to translate and choose the target language.",
+      "rating": 2.8
+    },
+    {
+      "id": 6,
+      "name": "Sentiment Analysis",
+      "category": "Text & Language",
+      "description": "Ever wondered how people feel about a particular topic or brand? Sentiment Analysis can help you gauge the emotional tone of online reviews, social media posts, or any text data.  This model analyzes the text and classifies it as positive, negative, or neutral sentiment.  Gain valuable insights into public opinion and make informed decisions based on data-driven analysis.",
+      "demo_type": "text",
+      "placeholder_text": "Enter a piece of text to analyze the sentiment (e.g., online review, social media post).",
+      "rating": 3.7
     }
   ]
 }
