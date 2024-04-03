@@ -39,6 +39,7 @@
     {
       "id": 5,
       "name": "Language Translator",
+      "category": "Text & Language",
       "description": "The world is full of fascinating cultures and languages, but communication barriers can sometimes hold us back.  Our powerful Language Translator is here to bridge the gap.  Enter the text you want to translate, choose the target language from our extensive list, and let the AI do the work.  Break down language barriers, connect with people from all over the globe, and experience the richness of diverse cultures through the power of machine translation.",
       "demo_type": "text",
       "placeholder_text": "Enter the text you want to translate and choose the target language.",
@@ -52,6 +53,60 @@
       "demo_type": "text",
       "placeholder_text": "Enter a piece of text to analyze the sentiment (e.g., online review, social media post).",
       "rating": 3.7
+    },
+    {
+      "id": 6,
+      "name": "Sentiment Analysis",
+      "category": "Text & Language",
+      "description": "Ever wondered how people feel about a particular topic or brand? Sentiment Analysis can help you gauge the emotional tone of online reviews, social media posts, or any text data.  This model analyzes the text and classifies it as positive, negative, or neutral sentiment.  Gain valuable insights into public opinion and make informed decisions based on data-driven analysis.",
+      "demo_type": "text",
+      "placeholder_text": "Enter a piece of text to analyze the sentiment (e.g., online review, social media post).",
+      "rating": 4.1
+    },
+    {
+      "id": 7,
+      "name": "Object Detection",
+      "category": "Computer Vision",
+      "Description": "More than just identifying objects, this Object Detection model pinpoints their exact location within an image.  Upload an image, and the AI will not only recognize objects like cars, people, or animals, but also highlight their bounding boxes within the frame.  This advanced functionality can be useful for tasks like image segmentation, traffic monitoring, or analyzing security footage.",
+      "demo_type": "image",
+      "placeholder_text": "Drag and drop an image here or click to browse.",
+      "rating": 4.6
+    },
+    {
+      "id": 8,
+      "name": "Style Transfer",
+      "category": "Generative Models",
+      "description": "Ever dreamed of turning your photos into a masterpiece by your favorite artist?  Style Transfer makes it possible! Upload an image and choose the artistic style you want to emulate (e.g., Van Gogh, Monet, Picasso).  The model will then transform your image, applying the chosen artistic style while preserving the content.  See your photos in a whole new light and unleash your inner artist with the power of AI!",
+      "demo_type": "image",
+      "placeholder_text": "Upload an image and choose an artistic style to transfer.",
+      "rating": 4.4
+    },
+    {
+      "id": 9,
+      "name": "Speech Recognition",
+      "category": "Audio & Speech",
+      "description": "Let your voice be heard!  This Speech Recognition model transcribes spoken audio into text.  Upload an audio file or record yourself speaking directly into the application.  The model will then convert the audio into written text, making interviews, lectures, or any spoken content easily accessible and searchable.",
+      "demo_type": "audio",
+      "placeholder_text": "Upload an audio file or click the record button to speak.",
+      "rating": 4.2
+    },
+    {
+      "id": 10,
+      "name": "Image Segmentation",
+      "category": "Computer Vision",
+      "description": "This advanced Computer Vision model goes beyond object identification.  Image Segmentation takes an image and divides it into different segments, classifying each pixel based on its content.  For example, it can differentiate between the sky, buildings, and people in a landscape photo.  This detailed segmentation has applications in self-driving cars, medical imaging analysis, and various image editing tasks.",
+      "demo_type": "image",
+      "placeholder_text": "Upload an image for segmentation analysis.",
+      "rating": 4.7
+    },
+    {
+      "id": 11,
+      "name": "Text-to-Speech",
+      "category": "Audio & Speech",
+      "description": "Transform your text into natural-sounding speech!  This Text-to-Speech model reads any text you provide aloud in a realistic voice.  Choose from different voices and accents to customize the output.  This functionality can be used for creating audiobooks, generating voiceovers for presentations, or making written content more accessible for visually impaired users.",
+      "demo_type": "text",
+      "placeholder_text": "Enter the text you want to convert to speech.",
+      "rating": 4.5
     }
   ]
 }
